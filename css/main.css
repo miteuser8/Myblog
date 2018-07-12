@@ -35,33 +35,33 @@ font-size: 16px;
     text-align: justify;
 }
 /*style for Gallery*/
-div.gallery{margin:7px;
+div.gallery{margin:5px;
 border:1px solid #ccc;
 float:left;
-width:270px;}
+width:200px;}
 div.gallery:hover{border:1px solid blue;}
 div.gallery img{width:100%
 height:200px;}
 div.desc{padding:15px;
 text-align: center;}
-div.gallery1{margin:7px;
+div.gallery1{margin:5px;
 border:1px solid #ccc;
 float:left;
-width:283px;}
+width:200px;}
 div.gallery1:hover{border:1px solid blue;}
 div.gallery1 img{width:100%
 height:200px;}
-div.gallery2{margin:7px;
+div.gallery2{margin:5px;
 border:1px solid #ccc;
 float:left;
-width:275px;}
+width:200px;}
 div.gallery2:hover{border:1px solid blue;}
 div.gallery2 img{width:100%
 height:200px;}
-div.gallery6{margin:7px;
+div.gallery6{margin:5px;
 border:1px solid #ccc;
 float:left;
-width:230px;}
+width:200px;}
 div.gallery6:hover{border:1px solid blue;}
 div.gallery6 img{width:100%
 height:200px;}
